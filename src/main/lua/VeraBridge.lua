@@ -1,4 +1,4 @@
-
+--paste this in home.getvera.com->Apps->Develop apps->Edit Startup Lua
 
 local http = require("socket.http")
 local ltn12 = require("ltn12")
